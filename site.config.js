@@ -9,7 +9,7 @@ export default {
   // basic site info (required)
   name: '笔记',
   domain: 'harmonious-tuberose-b89',
-  author: 'Catmintt',
+  author: 'transitive-bullshit',
 
   // open graph metadata (optional)
   description: 'Catmintt的笔记',
