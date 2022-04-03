@@ -1,6 +1,6 @@
 export default {
   // the site's root Notion page (required)
-  rootNotionPageId: '6dae46d9692d4189a1388cc54a23c7c7',
+  rootNotionPageId: 'd8cd0ec30b1a42a991cb5fcba91826e9',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
