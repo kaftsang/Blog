@@ -9,7 +9,7 @@ export default {
   // basic site info (required)
   name: '笔记',
   domain: 'harmonious-tuberose-b89',
-  author: 'transitive-bullshit',
+  author: 'Kungfu Tsang',
 
   // open graph metadata (optional)
   description: 'Catmintt的笔记',
