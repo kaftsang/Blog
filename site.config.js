@@ -9,14 +9,14 @@ export default {
   // basic site info (required)
   name: '笔记',
   domain: 'harmonious-tuberose-b89',
-  author: 'Kungfu Tsang',
+  author: 'Kevin Tsang',
 
   // open graph metadata (optional)
   description: 'Catmintt的笔记',
 
   // social usernames (optional)
   twitter: '',
-  github: 'Shen30000',
+  github: 'kaftsang',
   linkedin: '',
 
   // default notion icon and cover images for site-wide consistency (optional)
